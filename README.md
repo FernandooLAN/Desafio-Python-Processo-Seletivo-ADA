@@ -26,3 +26,9 @@ venv\Scripts\activate
 python3 -m venv venv
 source venv/bin/activate]
 ```
+Com o ambiente ativo, rode no seu terminal: `pip install -r requirements.txt`
+
+Na raiz do repositório, execute: `python main.py <caminho_do_seu_arquivo.pdf>`
+
+Exemplo atual: `python main.py RomaAntigapdf.pdf`
+
