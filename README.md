@@ -24,7 +24,7 @@ venv\Scripts\activate
 **No Linux/Mac:**
 ```bash
 python3 -m venv venv
-source venv/bin/activate]
+source venv/bin/activate
 ```
 Com o ambiente ativo, rode no seu terminal: `pip install -r requirements.txt`
 
