@@ -1,0 +1,13 @@
+# Manipulação de PDF e Imagens
+pymupdf
+
+# Processamento de Texto (NLTK)
+nltk
+
+# Para ler variáveis de ambiente (.env)
+python-dotenv
+
+# Para a Inteligência Artificial (Qwen/HuggingFace)
+torch
+transformers
+accelerate
